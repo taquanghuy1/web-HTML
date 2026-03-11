@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Trang Web Demo</title>
+</head>
+
+<body>
+
+<table border="1" width="600">
+<tr>
+
+<!-- Vùng 1 -->
+<td width="200">
+    <a href="#">Trang chủ</a><br><br>
+    <a href="#">Khóa học</a><br><br>
+    <a href="#">Diễn đàn</a><br><br>
+    <a href="#">Liên hệ</a>
+</td>
+
+<!-- Vùng 2 -->
+<td>
+
+<h2>Họ tên:</h2>
+
+<h4>Các sở thích</h4>
+
+<ol>
+<li>Đá bóng</li>
+<li>Nghe nhạc</li>
+<li>Chơi game</li>
+</ol>
+
+</td>
+
+</tr>
+</table>
+
+</body>
+</html>
